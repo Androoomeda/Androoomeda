@@ -6,7 +6,7 @@
 - 👨‍💻 Разрабатываю Asp Web API приложения;
 - 🔭 Сейчас разрабатываю приложение для онлайн магазина с вёрсткой сайта и подключение Web API к нему;
 - 🌱 Изучаю новые интсрументы и технологии;
-- Связать можно тут 👉 [Telegram](htttp://t.me/@Andr0medaaa)
+- Связать можно тут 👉 [Telegram](https://t.me/Andr0medaaa)
 ---
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C Sharp" alt="csharp" width="40" height="40"/>
